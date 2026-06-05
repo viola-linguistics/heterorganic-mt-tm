@@ -7,6 +7,7 @@ The IPA-transcriptions are from Wiktionary.
 
 A KULTURÁLIS ÉS INNOVÁCIÓS MINISZTÉRIUM EKÖP-25 KÓDSZÁMÚ EGYETEMI KUTATÓI ÖSZTÖNDÍJ PROGRAMJÁNAK A NEMZETI KUTATÁSI, FEJLESZTÉSI ÉS INNOVÁCIÓS ALAPBÓL FINANSZÍROZOTT SZAKMAI TÁMOGATÁSÁVAL KÉSZÜLT.
 
+MT
 
 |     nyelv      |     MT    |     szó             |     kiejtés           |     jelentés                        |
 |----------------|-----------|---------------------|-----------------------|-------------------------------------|
@@ -48,7 +49,7 @@ A KULTURÁLIS ÉS INNOVÁCIÓS MINISZTÉRIUM EKÖP-25 KÓDSZÁMÚ EGYETEMI KUTAT
 |                |     mk    |     vymknout        |     [ˈvɪmknou̯t]       |     megránt (izületet)              |
 
 
-
+TM
 
 |     nyelv      |     TM    |     szó               |     IPA                       |     jelentés                      |
 |----------------|-----------|-----------------------|-------------------------------|-----------------------------------|
